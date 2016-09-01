@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost";
     $username = "root";
-    $password = "";
+    $password = "bigoldpasswords";
     $dbname = "players";
     $name = $_POST['name'];
     $wins = $_POST['wins'];
