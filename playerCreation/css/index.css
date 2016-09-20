@@ -1,0 +1,13 @@
+body {
+    background-color: #EDEDED;
+}
+
+.bord {
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 23px;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 5px;
+}
