@@ -13,7 +13,9 @@
         </div>
     </head>
     
-    <body>
+
+  <body background="Domino.jpg">
+ 
         <?php
         $servername = "localhost";
         $username = "root";

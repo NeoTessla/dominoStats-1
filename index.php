@@ -16,6 +16,8 @@
         <div class="container">
             <h2>Latest games:</h2>
         </div>
+                <body background="Domino1.jpg">
+        
         <div class="container-fluid">
             <table class="table">
                 <tr>
